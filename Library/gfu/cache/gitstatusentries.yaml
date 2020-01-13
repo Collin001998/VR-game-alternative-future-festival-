@@ -1,0 +1,1746 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-01-13T11:23:19.849+01:00
+  initializedAtString: 2020-01-13T11:23:19.849+01:00
+  entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Oculus.VR.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Oculus.VR.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Oculus.VR.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Oculus.VR.pdb
+    projectPath: Library\ScriptAssemblies\Oculus.VR.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Oculus.VR.Scripts.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Postprocessing.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Postprocessing.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Postprocessing.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Postprocessing.Runtime.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Postprocessing.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Runtime.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Runtime.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.Lightweight.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+    projectPath: Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.ShaderGraph.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.CacheServer.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEditor.CacheServer.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.CacheServer.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.CacheServer.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEditor.CacheServer.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.CacheServer.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\36b100-mainStage.json
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Library\StateCache\Hierarchy\36b100-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\36b100-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Oculus.VR.csproj
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Oculus.VR.csproj
+    projectPath: Oculus.VR.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Oculus.VR.Editor.csproj
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Oculus.VR.Editor.csproj
+    projectPath: Oculus.VR.Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Oculus.VR.Scripts.Editor.csproj
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Oculus.VR.Scripts.Editor.csproj
+    projectPath: Oculus.VR.Scripts.Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\ProcessJobs\c3ddd4981b875f932e005706369b5e99.bakert
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\ProcessJobs\c3ddd4981b875f932e005706369b5e99.bakert
+    projectPath: Temp\ProcessJobs\c3ddd4981b875f932e005706369b5e99.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-00ccd38c5b93b7143a6e38739d181aab
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-00ccd38c5b93b7143a6e38739d181aab
+    projectPath: Temp\UnityTempFile-00ccd38c5b93b7143a6e38739d181aab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-07008811a9c746042aa91f68a547e8cf
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-07008811a9c746042aa91f68a547e8cf
+    projectPath: Temp\UnityTempFile-07008811a9c746042aa91f68a547e8cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0d30db24ffe0037428625c6a4cc9ee93
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-0d30db24ffe0037428625c6a4cc9ee93
+    projectPath: Temp\UnityTempFile-0d30db24ffe0037428625c6a4cc9ee93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-11d7565143262914f92205a95c9d2bd8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-11d7565143262914f92205a95c9d2bd8
+    projectPath: Temp\UnityTempFile-11d7565143262914f92205a95c9d2bd8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-17f94255cacab5e43b29e92a455a008c
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-17f94255cacab5e43b29e92a455a008c
+    projectPath: Temp\UnityTempFile-17f94255cacab5e43b29e92a455a008c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1c688e6a1853eff49ab0bfdf4039ab41
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-1c688e6a1853eff49ab0bfdf4039ab41
+    projectPath: Temp\UnityTempFile-1c688e6a1853eff49ab0bfdf4039ab41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1e69cb12d36771848b35d61273126d75
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-1e69cb12d36771848b35d61273126d75
+    projectPath: Temp\UnityTempFile-1e69cb12d36771848b35d61273126d75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2262e823b443d83419133d0e1d3dafe1
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-2262e823b443d83419133d0e1d3dafe1
+    projectPath: Temp\UnityTempFile-2262e823b443d83419133d0e1d3dafe1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-27df3d3e39bdb0545979e97138d18440
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-27df3d3e39bdb0545979e97138d18440
+    projectPath: Temp\UnityTempFile-27df3d3e39bdb0545979e97138d18440
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2873c35bdc7008048bef5338e5f93bbc
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-2873c35bdc7008048bef5338e5f93bbc
+    projectPath: Temp\UnityTempFile-2873c35bdc7008048bef5338e5f93bbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2fc46551f6d3678488681640c9b4a12e
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-2fc46551f6d3678488681640c9b4a12e
+    projectPath: Temp\UnityTempFile-2fc46551f6d3678488681640c9b4a12e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-31667c239fa03b644989d278c739a0cd
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-31667c239fa03b644989d278c739a0cd
+    projectPath: Temp\UnityTempFile-31667c239fa03b644989d278c739a0cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-323a57880ca859346bb77e5629a3a3c3
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-323a57880ca859346bb77e5629a3a3c3
+    projectPath: Temp\UnityTempFile-323a57880ca859346bb77e5629a3a3c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3622b4e86d573c1489320063c29b1765
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-3622b4e86d573c1489320063c29b1765
+    projectPath: Temp\UnityTempFile-3622b4e86d573c1489320063c29b1765
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3ce2d36eb4140934f8e3c157af9211e4
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-3ce2d36eb4140934f8e3c157af9211e4
+    projectPath: Temp\UnityTempFile-3ce2d36eb4140934f8e3c157af9211e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-49924a5e2c3c5124ab555ab9c84950d7
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-49924a5e2c3c5124ab555ab9c84950d7
+    projectPath: Temp\UnityTempFile-49924a5e2c3c5124ab555ab9c84950d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4a9a5feac7d350645ac0548b0afa0b13
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-4a9a5feac7d350645ac0548b0afa0b13
+    projectPath: Temp\UnityTempFile-4a9a5feac7d350645ac0548b0afa0b13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-52125894bd3317c449ec7db555e82551
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-52125894bd3317c449ec7db555e82551
+    projectPath: Temp\UnityTempFile-52125894bd3317c449ec7db555e82551
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-575b6d78487763840a7c2fde237250ed
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-575b6d78487763840a7c2fde237250ed
+    projectPath: Temp\UnityTempFile-575b6d78487763840a7c2fde237250ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-59d7a37255df6f94ca776d159e515ce1
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-59d7a37255df6f94ca776d159e515ce1
+    projectPath: Temp\UnityTempFile-59d7a37255df6f94ca776d159e515ce1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5bef76d7bbc50234b87781f110a47ebe
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-5bef76d7bbc50234b87781f110a47ebe
+    projectPath: Temp\UnityTempFile-5bef76d7bbc50234b87781f110a47ebe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5f450995ac9dc14418d740a432a77c01
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-5f450995ac9dc14418d740a432a77c01
+    projectPath: Temp\UnityTempFile-5f450995ac9dc14418d740a432a77c01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5f7241b7c6032c24086847bd6d4a699d
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-5f7241b7c6032c24086847bd6d4a699d
+    projectPath: Temp\UnityTempFile-5f7241b7c6032c24086847bd6d4a699d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-66cfb48f4570b6b4196c36b74b03738b
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-66cfb48f4570b6b4196c36b74b03738b
+    projectPath: Temp\UnityTempFile-66cfb48f4570b6b4196c36b74b03738b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6901bc1edca03ce4faacbf942ff0f892
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-6901bc1edca03ce4faacbf942ff0f892
+    projectPath: Temp\UnityTempFile-6901bc1edca03ce4faacbf942ff0f892
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6f1555d5ce4fb4e4583c4083e7c659c4
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-6f1555d5ce4fb4e4583c4083e7c659c4
+    projectPath: Temp\UnityTempFile-6f1555d5ce4fb4e4583c4083e7c659c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-707d89359ee619c4d87cf1850d2fc03d
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-707d89359ee619c4d87cf1850d2fc03d
+    projectPath: Temp\UnityTempFile-707d89359ee619c4d87cf1850d2fc03d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7a52ac1412fad4b4ca820c4049d2fde8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-7a52ac1412fad4b4ca820c4049d2fde8
+    projectPath: Temp\UnityTempFile-7a52ac1412fad4b4ca820c4049d2fde8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7b644d14befaef54f9a6657e18b87944
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-7b644d14befaef54f9a6657e18b87944
+    projectPath: Temp\UnityTempFile-7b644d14befaef54f9a6657e18b87944
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7edf9c8e628608749a77dcf64acf0651
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-7edf9c8e628608749a77dcf64acf0651
+    projectPath: Temp\UnityTempFile-7edf9c8e628608749a77dcf64acf0651
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-814012f9c13c3344d8bb11e14d83423f
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-814012f9c13c3344d8bb11e14d83423f
+    projectPath: Temp\UnityTempFile-814012f9c13c3344d8bb11e14d83423f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-86ceaea9e2d8651419bd05c9e43b68e8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-86ceaea9e2d8651419bd05c9e43b68e8
+    projectPath: Temp\UnityTempFile-86ceaea9e2d8651419bd05c9e43b68e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9088048ea578b9546806befbcc6a1536
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-9088048ea578b9546806befbcc6a1536
+    projectPath: Temp\UnityTempFile-9088048ea578b9546806befbcc6a1536
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9425850cc9fc67a44bdb278326ebba2e
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-9425850cc9fc67a44bdb278326ebba2e
+    projectPath: Temp\UnityTempFile-9425850cc9fc67a44bdb278326ebba2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9476ae5fdb4cbec4eb4ea0a93052c9d8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-9476ae5fdb4cbec4eb4ea0a93052c9d8
+    projectPath: Temp\UnityTempFile-9476ae5fdb4cbec4eb4ea0a93052c9d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94b740f53281db84b9f67120410ba1c2
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-94b740f53281db84b9f67120410ba1c2
+    projectPath: Temp\UnityTempFile-94b740f53281db84b9f67120410ba1c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-94dd71c376bffa14f953f4038ace8a81
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-94dd71c376bffa14f953f4038ace8a81
+    projectPath: Temp\UnityTempFile-94dd71c376bffa14f953f4038ace8a81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-959fed17911422241b8e8250e5e1dbe1
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-959fed17911422241b8e8250e5e1dbe1
+    projectPath: Temp\UnityTempFile-959fed17911422241b8e8250e5e1dbe1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-95ae530bdaeb8b2439e57d29ea4bbca9
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-95ae530bdaeb8b2439e57d29ea4bbca9
+    projectPath: Temp\UnityTempFile-95ae530bdaeb8b2439e57d29ea4bbca9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-997efdc03a8327044bd00948ef60f4a8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-997efdc03a8327044bd00948ef60f4a8
+    projectPath: Temp\UnityTempFile-997efdc03a8327044bd00948ef60f4a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-999e4e03bfd7da6498c5426b64f2d162
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-999e4e03bfd7da6498c5426b64f2d162
+    projectPath: Temp\UnityTempFile-999e4e03bfd7da6498c5426b64f2d162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a26d9e2f4a9a8c2419df6df993bc3519
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-a26d9e2f4a9a8c2419df6df993bc3519
+    projectPath: Temp\UnityTempFile-a26d9e2f4a9a8c2419df6df993bc3519
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b1066c74a3fef0f428a51f3faf311036
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-b1066c74a3fef0f428a51f3faf311036
+    projectPath: Temp\UnityTempFile-b1066c74a3fef0f428a51f3faf311036
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b174def59e092374ea13ee6850c392ef
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-b174def59e092374ea13ee6850c392ef
+    projectPath: Temp\UnityTempFile-b174def59e092374ea13ee6850c392ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b702070744be733478d3d50f89b53015
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-b702070744be733478d3d50f89b53015
+    projectPath: Temp\UnityTempFile-b702070744be733478d3d50f89b53015
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c1c989dcf5a0744429929627e84901ab
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-c1c989dcf5a0744429929627e84901ab
+    projectPath: Temp\UnityTempFile-c1c989dcf5a0744429929627e84901ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c451cf7e8fb507a46ac8c66a74c25879
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-c451cf7e8fb507a46ac8c66a74c25879
+    projectPath: Temp\UnityTempFile-c451cf7e8fb507a46ac8c66a74c25879
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c7b21ecf3789a8444a1615a231604f94
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-c7b21ecf3789a8444a1615a231604f94
+    projectPath: Temp\UnityTempFile-c7b21ecf3789a8444a1615a231604f94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cb709692cb26a23408a28ce4c03b390f
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-cb709692cb26a23408a28ce4c03b390f
+    projectPath: Temp\UnityTempFile-cb709692cb26a23408a28ce4c03b390f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d8dcde8a46c1bd24b89e652328f9994b
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-d8dcde8a46c1bd24b89e652328f9994b
+    projectPath: Temp\UnityTempFile-d8dcde8a46c1bd24b89e652328f9994b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e2b6d002f2dc81c4a90a6ad11b9bd562
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-e2b6d002f2dc81c4a90a6ad11b9bd562
+    projectPath: Temp\UnityTempFile-e2b6d002f2dc81c4a90a6ad11b9bd562
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e9f147ec1b48b004f98204c580b7e5c3
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-e9f147ec1b48b004f98204c580b7e5c3
+    projectPath: Temp\UnityTempFile-e9f147ec1b48b004f98204c580b7e5c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ee52677d6110cd349af8d3be243826b8
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-ee52677d6110cd349af8d3be243826b8
+    projectPath: Temp\UnityTempFile-ee52677d6110cd349af8d3be243826b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-eeaabf45df638bb4eaa814d24397e959
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-eeaabf45df638bb4eaa814d24397e959
+    projectPath: Temp\UnityTempFile-eeaabf45df638bb4eaa814d24397e959
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f0ad6c1ae54ee92448ba352836967aea
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-f0ad6c1ae54ee92448ba352836967aea
+    projectPath: Temp\UnityTempFile-f0ad6c1ae54ee92448ba352836967aea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f28da364bde34774db90fcec653458af
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-f28da364bde34774db90fcec653458af
+    projectPath: Temp\UnityTempFile-f28da364bde34774db90fcec653458af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fee428cb1f584d941ac77f8a343296c9
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-fee428cb1f584d941ac77f8a343296c9
+    projectPath: Temp\UnityTempFile-fee428cb1f584d941ac77f8a343296c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ff93e474868a47647ad363407d671ae5
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\Temp\UnityTempFile-ff93e474868a47647ad363407d671ae5
+    projectPath: Temp\UnityTempFile-ff93e474868a47647ad363407d671ae5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: VR-game-alternative-future-festival-.sln
+    fullPath: C:\Users\Students\Documents\VR-game-alternative-future-festival-\VR-game-alternative-future-festival-.sln
+    projectPath: VR-game-alternative-future-festival-.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
