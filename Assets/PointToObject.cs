@@ -29,9 +29,11 @@ public class PointToObject : MonoBehaviour
 			SetDefaultShader(hit.collider.gameObject);
 			selectedObject = hit.collider.gameObject;
 			ChangeShader(hit.collider.gameObject, highlightShader);
+			ShowToolTip(selectedObject, true);
 		} else if (selectedObject != null)
 		{
 			ChangeShader(selectedObject, defaultShader);
+			ShowToolTip(selectedObject, false);
 			selectedObject = null;
 		}
 	}
@@ -67,5 +69,15 @@ public class PointToObject : MonoBehaviour
 	private void ChangeShader(GameObject target, Shader shader)
 	{
 		target.GetComponent<Renderer>().material.shader = shader;
+	}
+	private void ShowToolTip(GameObject target, bool visable)
+	{
+		Transform child = target.transform.GetChild(0);
+
+
+		if (child.gameObject.GetComponent<Canvas>() != null)
+		{
+			child.gameObject.SetActive(visable);
+		}
 	}
 }
