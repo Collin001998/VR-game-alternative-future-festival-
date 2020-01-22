@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1500461276456753464
+--- !u!1 &1426999599064791162
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,12 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3418024880176084307}
-  - component: {fileID: 8821845239459561703}
-  - component: {fileID: 6572585025614107923}
-  - component: {fileID: 6194963296145209625}
-  - component: {fileID: 6194963296145209630}
-  - component: {fileID: 1500461276456753467}
+  - component: {fileID: 2913915283504174097}
+  - component: {fileID: 9039411125933564325}
+  - component: {fileID: 6640995557257606225}
+  - component: {fileID: 5973993347459569755}
+  - component: {fileID: 5973993347459569756}
+  - component: {fileID: 5588831987979234146}
   m_Layer: 0
   m_Name: Axe
   m_TagString: Untagged
@@ -21,35 +21,35 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3418024880176084307
+--- !u!4 &2913915283504174097
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1500461276456753464}
+  m_GameObject: {fileID: 1426999599064791162}
   m_LocalRotation: {x: -0.59907246, y: -0.3756491, z: -0.3756491, w: 0.59907246}
-  m_LocalPosition: {x: -26.031, y: 0.818, z: -118.841}
+  m_LocalPosition: {x: -26.469896, y: 0.818, z: -118.76225}
   m_LocalScale: {x: 9.537687, y: 68.277725, z: 27.578327}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -90.00001, y: 0, z: -64.18}
---- !u!33 &8821845239459561703
+--- !u!33 &9039411125933564325
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1500461276456753464}
+  m_GameObject: {fileID: 1426999599064791162}
   m_Mesh: {fileID: 4493585093827132993, guid: d39de70af0c5a1c49b77fd0f43943bca, type: 3}
---- !u!23 &6572585025614107923
+--- !u!23 &6640995557257606225
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1500461276456753464}
+  m_GameObject: {fileID: 1426999599064791162}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7f0d8fd0196aa3d42a9d58ae7e3e577f, type: 2}
+  - {fileID: 2100000, guid: 913cdbc12eee7714eb71c44478c48a11, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -81,13 +81,13 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!54 &6194963296145209625
+--- !u!54 &5973993347459569755
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1500461276456753464}
+  m_GameObject: {fileID: 1426999599064791162}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -97,13 +97,13 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &6194963296145209630
+--- !u!114 &5973993347459569756
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1500461276456753464}
+  m_GameObject: {fileID: 1426999599064791162}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 02d61468f8b77ae4b92c344bc9a600fb, type: 3}
@@ -114,16 +114,16 @@ MonoBehaviour:
   m_snapOrientation: 0
   m_snapOffset: {fileID: 0}
   m_grabPoints: []
---- !u!65 &1500461276456753467
+--- !u!65 &5588831987979234146
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1500461276456753464}
+  m_GameObject: {fileID: 1426999599064791162}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.011604574, y: 0.016690856, z: 0.0025021355}
-  m_Center: {x: -0.0010106679, y: -0.0016494571, z: 0.008544348}
+  m_Size: {x: 0.014103569, y: 0.016413208, z: 0.0025021436}
+  m_Center: {x: -0.0012156991, y: -0.0017882793, z: 0.00854438}
