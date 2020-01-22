@@ -36,6 +36,13 @@ public class PointToObject : MonoBehaviour
 			ShowToolTip(selectedObject, false);
 			selectedObject = null;
 		}
+
+		if(hit.collider.gameObject.tag == "Artifact" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
+		{
+			Player_Stats player_Stats = GameObject.Find("Player_Stats").GetComponent<Player_Stats>();
+			player_Stats.CollectArtifact(hit.collider.gameObject);
+			Debug.LogWarning(hit.collider.gameObject);
+		}
 	}
 	private void UpdateLine()
 	{
